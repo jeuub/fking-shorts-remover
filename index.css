@@ -1,0 +1,11 @@
+ytm-pivot-bar-renderer :nth-child(2) {
+  display: none
+}
+
+ytm-reel-shelf-renderer {
+  display: none
+}
+
+ytd-mini-guide-entry-renderer[aria-label="Shorts"] {
+  display:  none;
+}
